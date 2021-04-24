@@ -1,8 +1,8 @@
 # Four Hands
 
 ## Team Members
-- 1. Divya Soni
-- 2. Sonali Sharama
+- Divya Soni
+- Sonali Sharama
 
 ## Employment Health
 
