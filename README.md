@@ -10,4 +10,4 @@
 - We fathom and after bout discussion of ideas, rather than being predilection for a certain community, we thought we would build an application where both employee and employer gets benefited without middleman or agent. People in need of workers can go to our app and select people according to specified category for their chores with respect to their wages.   
 - We advocate our application which not only helps people with their errand but also provide economic help with legal employment for the people in need.
 
-[Pdf] (https://drive.google.com/file/d/13u3v3vrpbPfrB7gJjRsSIBxum8krBO6E/view?usp=sharing)
+[Pdf](https://drive.google.com/file/d/13u3v3vrpbPfrB7gJjRsSIBxum8krBO6E/view?usp=sharing)
